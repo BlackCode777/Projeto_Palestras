@@ -1,3 +1,13 @@
+<div align="center"> 
+
+  <p float="left">
+
+   <img src="https://i.pinimg.com/564x/09/af/25/09af253bb76ed64176ffcded5ed47b58.jpg" width="1200" />
+
+  </p>
+
+</div>
+
 …or create a new repository on the command line
 echo "# Projeto_Palestras" >> README.md
 git init
